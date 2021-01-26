@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is part two... oops I hate this story and wish I could go back in time.
+=======
+>>>>>>> parent of 74fd984... changed the test file to add a beautiful story.
